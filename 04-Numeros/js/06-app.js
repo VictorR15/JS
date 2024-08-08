@@ -3,6 +3,7 @@ const numero2 = "20.2";
 const numero3 = "Uno";
 const numero4 = 20.2;
 
+//CONVERTIR LOS NUMEROS A INT FLOAT
 console.log(numero1);
 console.log(Number.parseInt(numero1));
 console.log(Number.parseFloat(numero2));
