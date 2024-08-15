@@ -7,11 +7,13 @@ const carrito = [
   { nombre: "Monitor 27 fdasfsadfsadfsa", precio: 503330 },
 ];
 
+//RECORE TODO EL ARRAY
+
 carrito.forEach(function (producto) {
   console.log(`${producto.nombre} - Precio: ${producto.precio}`);
 });
 
-//.map CREA UN NUEVO ARREGLO 
+//.map CREA UN NUEVO ARREGLO
 
 carrito.map(function (producto) {
   console.log(`${producto.nombre} - Precio: ${producto.precio}`);
