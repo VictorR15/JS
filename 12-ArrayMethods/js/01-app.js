@@ -33,3 +33,4 @@ const existe2 = meses.some((mes) => mes === "Febrero");
 console.log(existe2);
 
 //ES COMO UN TIPO IF YA QUE TIENES QUE USAR UN OPERADOR DE COMPARACION PARA VER SI ESTA EN EL ARRAY
+//.some REGREASA UN VALOR DE TIPO BOOLEAN
