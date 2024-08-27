@@ -1,3 +1,5 @@
+//textContent PARA APREGAR O MODIFICAR UN TEXTO AL HTML
+
 const encabezado = document.querySelector(".contenido-hero h1").textContent;
 console.log(encabezado);
 

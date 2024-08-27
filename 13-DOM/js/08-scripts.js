@@ -18,11 +18,12 @@ const card = document.querySelector(".card");
 
 // console.log(card.children[1].children[1].textContent);
 
-//CON .parentElement RECORES DESDE EL HIJO AL PADRE
+//CON .parentElement RECORES DESDE EL HIJO AL PADRE (DE ABAJO HACIA ARRIBA)
 
 // console.log(card.parentNode);
 // console.log(card.parentElement.parentElement.parentElement);
 
+//SE RECORRE A LA SIGUIENTE ETIQUETA
 // console.log(card);
 // console.log(card.nextElementSiblingt);
 // console.log(card.nextElementSibling.nextElementSibling);

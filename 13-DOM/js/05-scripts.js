@@ -1,3 +1,5 @@
+//SELECCIONAR TODOS LOS ELEMENTOS CON SU CLASE E ID
+
 const card = document.querySelectorAll(".card");
 console.log(card);
 
